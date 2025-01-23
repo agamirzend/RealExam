@@ -1,24 +1,22 @@
-﻿using AutoMapper;
+﻿using BL.DTOs.ServiceDTO;
 using BL.DTOs.Worker;
 using BL.Services.Abstractions;
-using DAL.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Exam.Areas.Admin.Controllers
 {
-    [Area("Admin")]
-    public class WorkersController : Controller
+    public class ServiceController : Controller
     {
-        private readonly IWorkerService _service;
-        
+        private readonly IServiceService _service;
 
-        public WorkersController(IWorkerService service)
+
+        public ServiceController(IServiceService service)
         {
-            
+
             _service = service;
         }
 
-        public  async Task<IActionResult> Index()
+        public async Task<IActionResult> Index()
         {
             try
             {
@@ -31,11 +29,11 @@ namespace Exam.Areas.Admin.Controllers
             return View();
         }
 
-        public async Task<IActionResult> CreateAsync(CreateWorkerDTO workerDTO )
+        public async Task<IActionResult> CreateAsync(CreateServiceDTO serviceDTO)
         {
             try
             {
-                await _service.CreateAsync(workerDTO);
+                await _service.CreateAsync(serviceDTO);
             }
             catch
             {
@@ -55,8 +53,5 @@ namespace Exam.Areas.Admin.Controllers
             }
             return View();
         }
-        
-
-
     }
 }

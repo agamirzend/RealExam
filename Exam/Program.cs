@@ -18,23 +18,19 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 });
 
 
-builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
-{
-    opt.User.AllowedUserNameCharacters= "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._@+";
-    opt.Password.RequireUppercase= true;
-    opt.SignIn.RequireConfirmedEmail= true;
 
-}).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
 
 builder.Services.AddScoped(typeof(IRepository<>),typeof(Repository<>));
 builder.Services.AddScoped<IWorkerService, WorkerService>();
 builder.Services.AddAutoMapper(typeof(WorkerProfile));
-
+builder.Services.AddScoped<IServiceService, ServiceService>();
+builder.Services.AddAutoMapper(typeof(ServiceProfile));
 
 
 var app = builder.Build();
 
-
+app.UseAuthentication();
+app.UseAuthorization();
 
 app.UseStaticFiles();
 

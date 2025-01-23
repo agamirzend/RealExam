@@ -7806,11 +7806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II Novbe\\source\\repos\\Exam\\Exam\\Exam.csproj",
+      "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Exam.csproj",
       "projectName": "Exam",
-      "projectPath": "C:\\Users\\II Novbe\\source\\repos\\Exam\\Exam\\Exam.csproj",
+      "projectPath": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Exam.csproj",
       "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II Novbe\\source\\repos\\Exam\\Exam\\obj\\",
+      "outputPath": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7832,8 +7832,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\II Novbe\\source\\repos\\Exam\\BL\\BL.csproj": {
-              "projectPath": "C:\\Users\\II Novbe\\source\\repos\\Exam\\BL\\BL.csproj"
+            "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\BL.csproj"
             }
           }
         }
