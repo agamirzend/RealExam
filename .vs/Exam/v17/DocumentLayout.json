@@ -1,0 +1,822 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Migrations\\20250123141046_Last_Update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250123141046_Last_Update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\areas\\admin\\views\\service\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\areas\\admin\\views\\service\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\areas\\admin\\views\\workers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\areas\\admin\\views\\workers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\areas\\admin\\views\\workers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\areas\\admin\\views\\workers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\areas\\admin\\views\\workers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\areas\\admin\\views\\workers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|c:\\users\\ii novbe\\desktop\\exam\\bl\\dtos\\servicedto\\createservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|solutionrelative:bl\\dtos\\servicedto\\createservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\areas\\admin\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\areas\\admin\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|c:\\users\\ii novbe\\desktop\\exam\\dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|solutionrelative:dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|c:\\users\\ii novbe\\desktop\\exam\\bl\\dtos\\userdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|solutionrelative:bl\\dtos\\userdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|c:\\users\\ii novbe\\desktop\\exam\\bl\\dtos\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|solutionrelative:bl\\dtos\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\exam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\exam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|c:\\users\\ii novbe\\desktop\\exam\\dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|solutionrelative:dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|c:\\users\\ii novbe\\desktop\\exam\\bl\\services\\concretes\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|solutionrelative:bl\\services\\concretes\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|c:\\users\\ii novbe\\desktop\\exam\\bl\\services\\concretes\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|solutionrelative:bl\\services\\concretes\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|c:\\users\\ii novbe\\desktop\\exam\\bl\\exceptions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|solutionrelative:bl\\exceptions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|c:\\users\\ii novbe\\desktop\\exam\\bl\\dtos\\worker\\getworkerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|solutionrelative:bl\\dtos\\worker\\getworkerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|c:\\users\\ii novbe\\desktop\\exam\\bl\\services\\abstractions\\iworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|solutionrelative:bl\\services\\abstractions\\iworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|c:\\users\\ii novbe\\desktop\\exam\\bl\\services\\abstractions\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|solutionrelative:bl\\services\\abstractions\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|c:\\users\\ii novbe\\desktop\\exam\\bl\\profiles\\serviceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|solutionrelative:bl\\profiles\\serviceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|c:\\users\\ii novbe\\desktop\\exam\\bl\\profiles\\workerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|solutionrelative:bl\\profiles\\workerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|c:\\users\\ii novbe\\desktop\\exam\\bl\\dtos\\servicedto\\getservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|solutionrelative:bl\\dtos\\servicedto\\getservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|c:\\users\\ii novbe\\desktop\\exam\\bl\\dtos\\worker\\createworkerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A4CD74-E350-4568-AAB4-103CA5296D7C}|BL\\BL.csproj|solutionrelative:bl\\dtos\\worker\\createworkerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|c:\\users\\ii novbe\\desktop\\exam\\dal\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|solutionrelative:dal\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|c:\\users\\ii novbe\\desktop\\exam\\dal\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|solutionrelative:dal\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|c:\\users\\ii novbe\\desktop\\exam\\dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|c:\\users\\ii novbe\\desktop\\exam\\dal\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|solutionrelative:dal\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|c:\\users\\ii novbe\\desktop\\exam\\dal\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|c:\\users\\ii novbe\\desktop\\exam\\dal\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|solutionrelative:dal\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|c:\\users\\ii novbe\\desktop\\exam\\dal\\models\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|solutionrelative:dal\\models\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|c:\\users\\ii novbe\\desktop\\exam\\exam\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E31B42-487E-4EA8-A9F2-3A67A09F3B95}|Exam\\Exam.csproj|solutionrelative:exam\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|c:\\users\\ii novbe\\desktop\\exam\\dal\\configurations\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|solutionrelative:dal\\configurations\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|c:\\users\\ii novbe\\desktop\\exam\\dal\\configurations\\workerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|solutionrelative:dal\\configurations\\workerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|c:\\users\\ii novbe\\desktop\\exam\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|c:\\users\\ii novbe\\desktop\\exam\\dal\\migrations\\20250123112545_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C6F8B-112C-4740-87A2-22B9556832B4}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250123112545_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250123141046_Last_Update.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Migrations\\20250123141046_Last_Update.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250123141046_Last_Update.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Migrations\\20250123141046_Last_Update.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250123141046_Last_Update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:10:46.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Exam\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Exam\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:06:30.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Service\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Areas\\Admin\\Views\\Service\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Service\\Delete.cshtml",
+              "RelativeToolTip": "Exam\\Areas\\Admin\\Views\\Service\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T14:02:13.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeToolTip": "Exam\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T14:00:39.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Workers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Areas\\Admin\\Views\\Workers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Workers\\Delete.cshtml",
+              "RelativeToolTip": "Exam\\Areas\\Admin\\Views\\Workers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:59:14.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "Exam\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ViewState": "AgIAAOIAAAAAAAAAAADwvxIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:38:22.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Exam\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Exam\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAywDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:38:15.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkersController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Controllers\\WorkersController.cs",
+              "RelativeDocumentMoniker": "Exam\\Areas\\Admin\\Controllers\\WorkersController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Controllers\\WorkersController.cs",
+              "RelativeToolTip": "Exam\\Areas\\Admin\\Controllers\\WorkersController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAC0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:56:49.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Workers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Areas\\Admin\\Views\\Workers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Workers\\Create.cshtml",
+              "RelativeToolTip": "Exam\\Areas\\Admin\\Views\\Workers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T12:33:30.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\DTOs\\ServiceDTO\\CreateServiceDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\ServiceDTO\\CreateServiceDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\DTOs\\ServiceDTO\\CreateServiceDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\ServiceDTO\\CreateServiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:51:17.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Exam\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Program.cs",
+              "RelativeToolTip": "Exam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:13:50.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Exam\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Exam\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:48:12.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Exam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:49:06.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Workers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Areas\\Admin\\Views\\Workers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Workers\\Index.cshtml",
+              "RelativeToolTip": "Exam\\Areas\\Admin\\Views\\Workers\\Index.cshtml",
+              "ViewState": "AgIAAOIAAAAAAAAAAADwvxIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T12:20:14.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:28:30.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\DTOs\\UserDTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\UserDTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\DTOs\\UserDTO\\LoginDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\UserDTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:08:41.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\DTOs\\UserDTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\UserDTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\DTOs\\UserDTO\\RegisterDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\UserDTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:09:06.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\appsettings.json",
+              "RelativeDocumentMoniker": "Exam\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\appsettings.json",
+              "RelativeToolTip": "Exam\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T10:18:55.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Exam\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Exam\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:58:44.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Exam.csproj",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Exam.csproj",
+              "RelativeDocumentMoniker": "Exam\\Exam.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Exam.csproj",
+              "RelativeToolTip": "Exam\\Exam.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T10:46:04.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WorkerService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\Services\\Concretes\\WorkerService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Concretes\\WorkerService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\Services\\Concretes\\WorkerService.cs",
+              "RelativeToolTip": "BL\\Services\\Concretes\\WorkerService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:37:01.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseException.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\Exceptions\\BaseException.cs",
+              "RelativeDocumentMoniker": "BL\\Exceptions\\BaseException.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\Exceptions\\BaseException.cs",
+              "RelativeToolTip": "BL\\Exceptions\\BaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:55:24.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\Services\\Concretes\\ServiceService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Concretes\\ServiceService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\Services\\Concretes\\ServiceService.cs",
+              "RelativeToolTip": "BL\\Services\\Concretes\\ServiceService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:53:48.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Models\\AppUser.cs",
+              "RelativeToolTip": "DAL\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:27:49.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Exam\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAAAJMBAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:58:49.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Exam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:59:16.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetWorkerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\DTOs\\Worker\\GetWorkerDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\Worker\\GetWorkerDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\DTOs\\Worker\\GetWorkerDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\Worker\\GetWorkerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:39:22.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IWorkerService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\Services\\Abstractions\\IWorkerService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Abstractions\\IWorkerService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\Services\\Abstractions\\IWorkerService.cs",
+              "RelativeToolTip": "BL\\Services\\Abstractions\\IWorkerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:33:50.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Exam\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAAAIcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:48:28.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\Services\\Abstractions\\IServiceService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Abstractions\\IServiceService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\Services\\Abstractions\\IServiceService.cs",
+              "RelativeToolTip": "BL\\Services\\Abstractions\\IServiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:49:08.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServiceProfile.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\Profiles\\ServiceProfile.cs",
+              "RelativeDocumentMoniker": "BL\\Profiles\\ServiceProfile.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\Profiles\\ServiceProfile.cs",
+              "RelativeToolTip": "BL\\Profiles\\ServiceProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:49:51.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\DTOs\\ServiceDTO\\GetServiceDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\ServiceDTO\\GetServiceDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\DTOs\\ServiceDTO\\GetServiceDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\ServiceDTO\\GetServiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:52:17.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateWorkerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\DTOs\\Worker\\CreateWorkerDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\Worker\\CreateWorkerDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\DTOs\\Worker\\CreateWorkerDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\Worker\\CreateWorkerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:38:20.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Models\\Service.cs",
+              "RelativeToolTip": "DAL\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:24:48.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WorkerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\Profiles\\WorkerProfile.cs",
+              "RelativeDocumentMoniker": "BL\\Profiles\\WorkerProfile.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\BL\\Profiles\\WorkerProfile.cs",
+              "RelativeToolTip": "BL\\Profiles\\WorkerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:40:08.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Exam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:48:44.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Models\\Worker.cs",
+              "RelativeToolTip": "DAL\\Models\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:21:52.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Repositories\\Repository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:21:04.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Exam\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Exam\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-23T10:47:11.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "DAL\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:38:00.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250123112545_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Migrations\\20250123112545_Initial.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250123112545_Initial.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Migrations\\20250123112545_Initial.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250123112545_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:25:45.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:21:35.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:18:27.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "DAL\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:20:23.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Exam\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:59:43.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Exam\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:59:32.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\Exam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Exam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:48:55.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ServiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Configurations\\ServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL\\Configurations\\ServiceConfiguration.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Configurations\\ServiceConfiguration.cs",
+              "RelativeToolTip": "DAL\\Configurations\\ServiceConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:35:03.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "WorkerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Configurations\\WorkerConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL\\Configurations\\WorkerConfiguration.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\Configurations\\WorkerConfiguration.cs",
+              "RelativeToolTip": "DAL\\Configurations\\WorkerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:31:38.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Exam\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T10:17:44.778Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
